@@ -16,6 +16,10 @@
 - Participating in MegaKurs taught by Jakub Król and Bartek Borowczyk
 
 ## 🔭 I’m currently working on:
+My main project is:
+- E-commerce website developed with React and Express. 
+
+Besides I'm working on:
 - [CVEBrowser](https://github.com/dLeczycki/CVEBrowser)  - front-end app for searching vulnerabilities. My goal is to transform it to portal for PenTesters
 - [Classics-in-React](https://github.com/dLeczycki/Classics-in-React) - small projects developed with React
 - [Classics-in-Express](https://github.com/dLeczycki/Classics-in-Express) - small projects developed with Node and ExpressJS
