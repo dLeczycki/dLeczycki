@@ -9,7 +9,7 @@
 - Language: JavaScript
 - BackEnd: Node, ExpressJS
 - FrontEnd: React
-- Other: HTML, CSS, Docker
+- Other: Docker
 
 ## 🌱 I'm currently learning:
 - Still getting better in main technologies
