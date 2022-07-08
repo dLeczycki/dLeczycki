@@ -20,9 +20,8 @@ My main project is:
 - E-commerce website developed with React and Express. 
 
 Besides I'm working on:
-- [CVEBrowser](https://github.com/dLeczycki/CVEBrowser)  - front-end app for searching vulnerabilities. My goal is to transform it to portal for PenTesters
-- [Classics-in-React](https://github.com/dLeczycki/Classics-in-React) - small projects developed with React
-- [Classics-in-Express](https://github.com/dLeczycki/Classics-in-Express) - small projects developed with Node and ExpressJS
+- [eShop](https://github.com/dLeczycki/eshop-frontend) - small e-commerce app
+- [eShop-backend](https://github.com/dLeczycki/eshop-backend) - backend for application above
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/daniel-%C5%82%C4%99czycki-a9a815215/)
